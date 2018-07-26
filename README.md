@@ -3,3 +3,4 @@
 This is the repository with details on my Portable Pi Zero W build
 
 
+- [Circuit Diagram](circuit.md)
